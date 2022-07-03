@@ -14,6 +14,14 @@
 
 ###
 
+<h2 align="left">Projects</h2>
+
+###
+
+<p align="left">Duelsnotsoessential -> cracked duelsessentials (Private)<br>Lunar cheat agent -> runtime java agent for Lunar.<br>Lilith -> localising your favourite proxy</p>
+
+###
+
 <h2 align="left"></h2>
 
 ###
