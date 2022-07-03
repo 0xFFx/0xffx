@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Duelsnotsoessential -> cracked duelsessentials (Private)<br>Lunar cheat agent -> runtime java agent for Lunar.<br>Lilith -> localising your favourite proxy</p>
+<p align="left">Duelsnotsoessential -> cracked duelsessentials (Private)<br>Lunar cheat agent -> runtime java agent for Lunar<br>Lilith -> localising your favourite proxy</p>
 
 ###
 
